@@ -1,9 +1,9 @@
 ### Olá! 👋
 
-Meu nome é Rafael Barros de Almeida e Silva, atualmente estou me especializando em desenvolvimento web voltado para o Front-End. Ainda não estou no mercado de trabalho, mas a mais de 7 meses venho me esforçando para aprender e aplicar os conhecimentos que estudo. Tenho uma boa base de HTML5, CSS3, JavaScript, algumas bibliotecas como o Bootstrap e noções básicas de ReactJS.
+Meu nome é Rafael Barros de Almeida e Silva, atualmente estou me especializando em desenvolvimento web voltado para o Front-End. Desenvolvedor web com dois anos de experiência. Nessa jornada já me aventurei com Javascript, ReactJS, Node, GraphQl, VTEX. Engajado em ambientes colaborativos de tecnologia. 
 
 #### Futuro 🚀
-Meu objetivo é ter uma base também de conhecimentos no Back-End no futuro próximo. Principalmente com JavaScript nas aplicações.
+Continuar a trilha de aprendizado para me tornar um expecialista em tecnologias que movam o Desenvolvimento web para outro patamar!
 
 Sinta-se a vontade para vasculhar e interagir no que achar relevante 😉
 
